@@ -1,5 +1,5 @@
 # AsciiArt
-Faça um programa que exiba a AsciiArt desejada.
+Faça um programa que exiba a AsciiArt abaixo.
 ```
   |\\      _,,,---,,_
 ZZZzz //,`.-'`'    -.  ;-;;,_
